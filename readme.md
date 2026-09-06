@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://cdn.beatsbyluca.com/files/7bc0b25f-1ed1-45a0-a5d4-206769f2afda" width="120" />
+
 # Streamy
 
 **24/7 Discord Streaming Status Keeper**
