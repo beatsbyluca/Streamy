@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://cdn.beatsbyluca.com/files/7bc0b25f-1ed1-45a0-a5d4-206769f2afda" width="120" />
-
 # Streamy
 
 **24/7 Discord Streaming Status Keeper**
@@ -10,6 +8,8 @@
   <img src="https://img.shields.io/badge/-PYTHON-0d0d0d?style=for-the-badge&labelColor=0d0d0d&color=7c44ff" />
   <img src="https://img.shields.io/badge/-v1.0.1-0d0d0d?style=for-the-badge&labelColor=0d0d0d&color=7c44ff" />
 </p>
+
+<img src="https://cdn.beatsbyluca.com/files/7bc0b25f-1ed1-45a0-a5d4-206769f2afda" width="700" />
 
 </div>
 
