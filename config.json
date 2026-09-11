@@ -1,8 +1,15 @@
 {
-    "token": "",
-    "stream_title": "",
-    "twitch_url": "https://www.twitch.tv/yourchannel",
+    "token": "dein token lol",
+    "stream_title": "kannst irgendwas hin schreiben",
+    "twitch_url": "https://twitch.tv/jude",
     "status": "dnd",
-    "image": "",
-    "auto_reconnect": true
+    "image": "image cdn link oder so",
+    "auto_reconnect": true,
+    "active_platforms": [
+        "desktop",
+        "web",
+        "mobile",
+        "console",
+        "vr"
+    ]
 }
